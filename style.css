@@ -1,6 +1,7 @@
 h1{
     font-size: 80px;
 }
+
 /* this is how ot make comments */
 /* the "." makes it so you can use "class" to retreive this color */
 .blue{
@@ -37,6 +38,6 @@ h1{
 }
 
 body{
-    background-color: white;
+    background-color: grey;
 }
 /* you can use one id but you can have multple classes*/
