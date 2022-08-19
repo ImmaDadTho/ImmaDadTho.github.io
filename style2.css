@@ -37,11 +37,6 @@ h1{
     background-color: black;
 }
 
-.selector{
+body.selector{
     background-image: url(prflag.png);
 }
-
-body{
-    background-color: grey;
-}
-/* you can use one id but you can have multple classes*/
