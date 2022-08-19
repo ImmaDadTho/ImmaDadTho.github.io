@@ -1,0 +1,42 @@
+h1{
+    font-size: 80px;
+}
+/* this is how ot make comments */
+/* the "." makes it so you can use "class" to retreive this color */
+.blue{
+    color:blue;
+}
+
+.red{
+    color:red;
+}
+
+/* the "#" makes it so it references ids*/
+#purple{
+    color:purple;
+}
+
+.alignleft{
+    text-align:left;
+}
+
+.aligncenter{
+    text-align: center;
+}
+
+.alignright{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.blackbackground{
+    background-color: black;
+}
+
+body{
+    background-color: cornsilk;
+}
+/* you can use one id but you can have multple classes*/
