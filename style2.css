@@ -37,7 +37,7 @@ h1{
     background-color: black;
 }
 
-#body{
-    background-image: url(prflag.png); background-size:cover;
-    background-repeat: no-repeat; background-position: center;
+body{
+    background: url(media/prflag.jpg);
+    background-size: 100% 100%;
 }
